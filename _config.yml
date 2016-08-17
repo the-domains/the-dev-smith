@@ -1,14 +1,28 @@
-layout_spectrum: 0.4623656
+name: The Dev Smith
+favicon: null
+layout_spectrum: 0.76476
+typography_spectrum: 0.2365591
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4301075
-  lightness: 0.8028674
-  brandStrength: 0.7043011
   brandColors:
     - '#282B3E'
     - '#F5F5F5'
     - '#7A7D86'
     - '#9BC8F9'
     - '#41AB97'
+  brandStrength: 0.7043011
+  lightness: 0.8028674
+  saturation: 0.4301075
   rhythmicContrast: 0.734767
-typography_spectrum: 0.2365591
-name: The Dev Smith
+purpose: []
