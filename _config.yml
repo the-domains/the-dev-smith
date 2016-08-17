@@ -1,0 +1,14 @@
+layout_spectrum: 0.4623656
+color:
+  saturation: 0.4301075
+  lightness: 0.8028674
+  brandStrength: 0.7043011
+  brandColors:
+    - '#282B3E'
+    - '#F5F5F5'
+    - '#7A7D86'
+    - '#9BC8F9'
+    - '#41AB97'
+  rhythmicContrast: 0.734767
+typography_spectrum: 0.2365591
+name: The Dev Smith
