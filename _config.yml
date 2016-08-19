@@ -1,20 +1,4 @@
-name: The Dev Smith
-favicon: null
-layout_spectrum: 0.2628
 typography_spectrum: 0.2365591
-title: The Dev Smith
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9a0c0b'
@@ -26,4 +10,21 @@ color:
   lightness: 0.25
   saturation: 0.5
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2628
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Dev Smith
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: The Dev Smith
+description: Developing more than business
 purpose: []
