@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Who the hell am I
+    id: 239ed26a-9585-4cfb-a37c-705841c5eefa
+    type: content
 favicon: null
 title: The Dev Smith
 description: Dev is the Start
