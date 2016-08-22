@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Andrew Gordon
+  email: Andrew@Air-Media.ca
 name: The Dev Smith
 cta:
   domain: null
@@ -29,6 +32,6 @@ navigation:
     id: 239ed26a-9585-4cfb-a37c-705841c5eefa
     type: content
 favicon: null
-title: The Dev Smith
+title: Develop Stuff
 description: Dev is the Start
 purpose: []
